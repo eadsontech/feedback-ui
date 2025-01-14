@@ -1,3 +1,24 @@
 {
-  "feedback": []
+  "feedback": [
+    {
+      "id": "8194",
+      "text": "This is a Feedback UI",
+      "rating": 10
+    },
+    {
+      "id": "1d98",
+      "text": "It is a UI where users can rate a service or a product",
+      "rating": 7
+    },
+    {
+      "id": "736b",
+      "text": "You type you comment in the text field and select a rating from 1 - 10",
+      "rating": 5
+    },
+    {
+      "id": "a28a",
+      "text": "You click on Send button and your rating and message is saved into the database",
+      "rating": 5
+    }
+  ]
 }
